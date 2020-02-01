@@ -35,7 +35,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 The way of creating this rest api server is introduced by [the awesome article](https://hackernoon.com/back-end-data-and-api-prototyping-with-fakerjs-and-json-server-n5t36uw).  
 I saw the article to create this project. Thank you for publishing very good article!  
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
