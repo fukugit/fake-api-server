@@ -21,8 +21,9 @@ You need to intall npm to work this project.
 ## Usage
 After running this project on your local, you can send a request to the below end-points with HTTP request method of GET/POST/PUT.  
 It is possible to store your request into the DB after you request some data with POST/PUT.  
+
 |  Request Method  |  Request URI  |  Request Content  |  Rsponse Status | 
-| ---- | ---- | ---- | ---- | ---- |
+| :--- | :--- | :--- | :--- |
 |  GET  |  http://localhost:3000/users  | --  |  200  |
 |  GET  |  http://localhost:3000/users/1  | --  |  200  |
 |  POST |  http://localhost:3000/users/  | {name:"test"}  |  201  |
