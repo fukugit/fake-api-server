@@ -18,8 +18,17 @@ You need to intall npm to work this project.
 * [Faker.js](https://github.com/marak/Faker.js/) - Creating fake data, that library is in npm. 
 * [JSON server](https://github.com/typicode/json-server) - Running server and response JSON data like Rest API, that library is in npm. 
 
-## License
+## Usage
+After running this project on your local, you can send a request to the below end-points with HTTP request method of GET/POST/PUT.  
+It is possible to store your request into the DB after you request some data with POST/PUT.  
+|  Request Method  |  Request URI  |  Request Content  |  Rsponse Status | 
+| ---- | ---- | ---- | ---- | ---- |
+|  GET  |  http://localhost:3000/users  | --  |  200  |
+|  GET  |  http://localhost:3000/users/1  | --  |  200  |
+|  POST |  http://localhost:3000/users/  | {name:"test"}  |  201  |
+|  PUT |  http://localhost:3000/users/  | {"id":1, "name":"test"}  |  200  |
 
+## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
