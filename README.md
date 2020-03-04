@@ -1,5 +1,5 @@
 # fake-api-server
-The Rest api server to response fake randam data to test for front end application.  
+The Rest api randers some fake randam datas for front end application integration testing.  
 
 ## Getting Started
 This project can be ran on your local environment with npm.  
