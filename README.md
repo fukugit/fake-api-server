@@ -1,5 +1,5 @@
 # fake-api-server
-The Rest api randers some fake randam datas for front end application integration testing.  
+The Rest api renders some fake randam data for front end application integration testing.  
 
 ## Getting Started
 This project can be ran on your local environment with npm.  
@@ -19,7 +19,7 @@ You need to intall npm to work this project.
 * [JSON server](https://github.com/typicode/json-server) - Running server and response JSON data like Rest API, that library is in npm. 
 
 ## Usage
-After running this project on your local, you can send a request to the below end-points with HTTP request method of GET/POST/PUT.  
+After running this project on your local, you can send a request to the below endpoints with HTTP request method of GET/POST/PUT.  
 It is possible to store your request into the DB after you request some data with POST/PUT.  
 
 |  Request Method  |  Request URI  |  Request Content  |  Rsponse Status | 
